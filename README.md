@@ -4,8 +4,7 @@
 
 An advanced image classification project built with **PyTorch**, designed to recognize **101 classes** of food from the Food-101 dataset using an **EfficientNetB2** architecture.  
 Only **20% of the original Food-101 dataset** was used, showing how efficient architectures can handle large-scale classification even with limited data.  
-[Download the model]([https://huggingface.co/spaces/Barkins/Food_Vision_Mini/blob/main/09_pretrained_effnetb2_feature_extractor_pizza_steak_sushi_20_percent.pth](https://huggingface.co/spaces/Barkins/Food_Vision_Big/resolve/main/09_pretrained_effnetb2_feature_extractor_food101_20_percent.pth?download=true))
-
+[Download the model](https://huggingface.co/spaces/Barkins/Food_Vision_Big/blob/main/09_pretrained_effnetb2_feature_extractor_food101_20_percent.pth)
 ---
 
 ## 🧠 Overview
